@@ -1,0 +1,13 @@
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\bin\Debug\netstandard2.0\Vp3Stepper.deps.json
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\bin\Debug\netstandard2.0\Vp3Stepper.dll
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\bin\Debug\netstandard2.0\ref\Vp3Stepper.dll
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\bin\Debug\netstandard2.0\Vp3Stepper.pdb
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\Vp3Stepper.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\Vp3Stepper.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\Vp3Stepper.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\Vp3Stepper.dll
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\ref\Vp3Stepper.dll
+C:\Users\Abd-allah\source\repos\Vp3Stepper\Vp3Stepper\Vp3Stepper\obj\Debug\netstandard2.0\Vp3Stepper.pdb
