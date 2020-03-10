@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj": {}
+    "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj": {
+    "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj",
+        "projectUniqueName": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj",
         "projectName": "Vp3Stepper.iOS",
-        "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj",
+        "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\Vp3Stepper.iOS.csproj",
         "packagesPath": "C:\\Users\\Abd-allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\obj\\",
+        "outputPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
-                "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj"
+              "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
+                "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
+    "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
+        "projectUniqueName": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
         "projectName": "Vp3Stepper",
-        "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
+        "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
         "packagesPath": "C:\\Users\\Abd-allah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\obj\\",
+        "outputPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

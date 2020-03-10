@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
+      "projectUniqueName": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
       "projectName": "Vp3Stepper",
-      "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
+      "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj",
       "packagesPath": "C:\\Users\\Abd-allah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\obj\\",
+      "outputPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

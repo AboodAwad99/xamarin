@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\Vp3Stepper.Android.csproj",
+      "projectUniqueName": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\Vp3Stepper.Android.csproj",
       "projectName": "Vp3Stepper.Android",
-      "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\Vp3Stepper.Android.csproj",
+      "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\Vp3Stepper.Android.csproj",
       "packagesPath": "C:\\Users\\Abd-allah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\obj\\",
+      "outputPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
-              "projectPath": "C:\\Users\\Abd-allah\\source\\repos\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj"
+            "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj": {
+              "projectPath": "D:\\Test\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper\\Vp3Stepper.csproj"
             }
           }
         }
