@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CalculatorN.MainPage">
+
+    <StackLayout VerticalOptions="Center">
+        <Image Source="Calculator.png" WidthRequest="100"
+               HeightRequest="100"
+               />
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center" BackgroundColor="Gray">
+            <Label Text="Enter Num 1 " FontSize="Large" VerticalOptions="End"/>
+            <Entry Placeholder="Enter Num 1" HorizontalOptions="FillAndExpand" VerticalOptions="End" x:Name="Num1" Keyboard="Numeric"></Entry>
+
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand" BackgroundColor="Green" >
+            <Label Text="Enter Num 2 " FontSize="Large" VerticalOptions="End" />
+            <Entry Placeholder="Enter Num 2" VerticalOptions="End" HorizontalOptions="FillAndExpand" x:Name="Num2" Keyboard="Numeric"></Entry>
+
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand"></StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="+" HorizontalOptions="FillAndExpand" Clicked="ButtonP_Clicked" CornerRadius="8"/>
+            <Button Text="-" HorizontalOptions="FillAndExpand" Clicked="ButtonMi_Clicked" CornerRadius="8"/>
+            <Button Text="*" HorizontalOptions="FillAndExpand" Clicked="ButtonMul_Clicked" CornerRadius="8" />
+            <Button Text="/" HorizontalOptions="FillAndExpand" Clicked="ButtonDiv_Clicked" CornerRadius="8" />
+
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Result = " FontSize="Large" VerticalOptions="End" ></Label>
+            <Entry HorizontalOptions="FillAndExpand" x:Name="Result" VerticalOptions="End" ></Entry>
+
+        </StackLayout>
+
+    </StackLayout>
+
+
+</ContentPage>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BMI.MainPage">
+
+    <StackLayout>
+        <Image Source="bmicalculator.png" HorizontalOptions="CenterAndExpand" HeightRequest="200" WidthRequest="200"></Image>
+        <StackLayout Orientation="Horizontal" Margin="0,20,0,0" >
+            <Entry Placeholder="Enter weight" x:Name="ew" HorizontalOptions="FillAndExpand" Keyboard="Numeric"></Entry>
+            <Entry Placeholder="Enter height" x:Name="eh" HorizontalOptions="FillAndExpand" Keyboard="Numeric"></Entry>
+        </StackLayout>
+        <Picker Title="Select Gender" Margin="0,20,0,0"
+               HorizontalOptions="CenterAndExpand"
+                x:Name="pick"
+                SelectedIndexChanged="pick_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>
+                  Male
+                </x:String>
+                <x:String>
+                    Female
+                </x:String>
+            </Picker.Items>
+
+        </Picker>
+        <StackLayout Orientation="Horizontal" Margin="0,20,0,0">
+            <Label Text="Date" FontSize="Large"  VerticalOptions="End"></Label>
+            <DatePicker HorizontalOptions="FillAndExpand" x:Name="dt" MinimumDate="5/4/2019" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="0,20,0,0">
+            <Label Text="Time" FontSize="Large" VerticalOptions="End"></Label>
+            <TimePicker HorizontalOptions="FillAndExpand" x:Name="ti" />
+        </StackLayout>
+        <Button Text="Save" WidthRequest="300"  x:Name="save" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" Clicked="save_Clicked" BackgroundColor="Coral" TextColor="White"/>
+        <Label x:Name="Lb" Margin="0,40,0,0" FontSize="Medium"></Label>
+
+
+    </StackLayout>
+
+</ContentPage>

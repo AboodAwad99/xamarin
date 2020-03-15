@@ -1,0 +1,13 @@
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\netstandard2.0\DateTimePicker.deps.json
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\netstandard2.0\DateTimePicker.dll
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\netstandard2.0\ref\DateTimePicker.dll
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\netstandard2.0\DateTimePicker.pdb
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\DateTimePicker.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\DateTimePicker.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\DateTimePicker.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\DateTimePicker.dll
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\ref\DateTimePicker.dll
+C:\Users\Abd-allah\source\repos\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\netstandard2.0\DateTimePicker.pdb

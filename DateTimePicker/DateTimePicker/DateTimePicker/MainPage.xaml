@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DateTimePicker.MainPage">
+
+    <StackLayout>
+        <DatePicker x:Name="dt"
+                  Date="03/01/2020"
+                   MinimumDate="03/01/2020"
+                    MaximumDate="03/31/2020"
+                      DateSelected="dt_DateSelected"
+                    ></DatePicker>
+        <TimePicker x:Name="tm"
+                    Time="11:20:2"
+                    PropertyChanged="tm_PropertyChanged"
+                    
+                    />
+        <ActivityIndicator x:Name="act"  />
+        <Switch  x:Name="sw" Toggled="sw_Toggled"/>
+    </StackLayout>
+
+</ContentPage>

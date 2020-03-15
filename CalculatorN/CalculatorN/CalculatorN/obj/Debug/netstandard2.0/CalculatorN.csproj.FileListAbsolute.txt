@@ -1,0 +1,13 @@
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\bin\Debug\netstandard2.0\CalculatorN.deps.json
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\bin\Debug\netstandard2.0\CalculatorN.dll
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\bin\Debug\netstandard2.0\ref\CalculatorN.dll
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\bin\Debug\netstandard2.0\CalculatorN.pdb
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\CalculatorN.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\CalculatorN.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\CalculatorN.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\CalculatorN.dll
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\ref\CalculatorN.dll
+C:\Users\Abd-allah\source\repos\CalculatorN\CalculatorN\CalculatorN\obj\Debug\netstandard2.0\CalculatorN.pdb

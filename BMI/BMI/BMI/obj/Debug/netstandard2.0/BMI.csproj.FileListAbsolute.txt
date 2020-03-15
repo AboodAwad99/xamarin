@@ -1,0 +1,13 @@
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\bin\Debug\netstandard2.0\BMI.deps.json
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\bin\Debug\netstandard2.0\BMI.dll
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\bin\Debug\netstandard2.0\ref\BMI.dll
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\bin\Debug\netstandard2.0\BMI.pdb
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\BMI.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\BMI.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\BMI.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\BMI.dll
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\ref\BMI.dll
+C:\Users\Abd-allah\source\repos\BMI\BMI\BMI\obj\Debug\netstandard2.0\BMI.pdb
