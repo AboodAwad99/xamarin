@@ -1,0 +1,13 @@
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\bin\Debug\netstandard2.0\BMIApp_2.deps.json
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\bin\Debug\netstandard2.0\BMIApp_2.dll
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\bin\Debug\netstandard2.0\ref\BMIApp_2.dll
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\bin\Debug\netstandard2.0\BMIApp_2.pdb
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\BMIApp_2.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\BMIApp_2.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\BMIApp_2.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\BMIApp_2.dll
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\ref\BMIApp_2.dll
+C:\Users\Abd-allah\source\repos\BMIApp_2\BMIApp_2\BMIApp_2\obj\Debug\netstandard2.0\BMIApp_2.pdb

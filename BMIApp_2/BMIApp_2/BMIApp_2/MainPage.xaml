@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BMIApp_2.MainPage">
+
+    <StackLayout>
+        <Image Source="bmiCalculator.png" HorizontalOptions="CenterAndExpand" HeightRequest="150" WidthRequest="150" ></Image>
+        <SearchBar Placeholder="Enter BMI" TextColor="Red" FontSize="Large" TextChanged="SearchBar_TextChanged" x:Name="sb"></SearchBar>
+        <StackLayout Orientation="Horizontal">
+            <Entry Placeholder="Height" x:Name="he" FontSize="Large" TextColor="Black" HorizontalOptions="FillAndExpand" ></Entry>
+            <Entry Placeholder="Weight" x:Name="we" FontSize="Large" TextColor="Black" HorizontalOptions="FillAndExpand"></Entry>
+        </StackLayout>  
+        <Picker x:Name="gender" Title="Select Gender" HorizontalOptions="Center" FontSize="Large">
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Date" TextColor="Black" FontSize="Large" HorizontalOptions="Start" VerticalOptions="End"></Label>
+            <DatePicker Date="3/22/2020" MinimumDate="3/20/2020" MaximumDate="4/15/2020" x:Name="dp" HorizontalOptions="FillAndExpand"></DatePicker>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Time" TextColor="Black" FontSize="Large" HorizontalOptions="Start" VerticalOptions="End"></Label>
+            <TimePicker x:Name="tp" HorizontalOptions="FillAndExpand"></TimePicker>
+        </StackLayout>
+        <Button Text="Save" x:Name="save" FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand" Clicked="save_Clicked"></Button>
+        <ListView x:Name="ls"></ListView>
+    </StackLayout>
+
+</ContentPage>
