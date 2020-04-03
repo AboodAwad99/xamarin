@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NavigationApp.Signup">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="SignUp" FontSize="Large" TextColor="DarkBlue" HorizontalOptions="Start" VerticalOptions="Start"></Label>
+            <Entry Placeholder="Enter Your Name" x:Name="SName" FontSize="Large" HorizontalOptions="FillAndExpand"></Entry>
+            <Entry Placeholder="Enter Your PassWord" x:Name="SPass" FontSize="Large" HorizontalOptions="FillAndExpand" IsPassword="True"></Entry>
+            <Button Text="SignUp" CornerRadius="10" x:Name="signup" FontSize="Large" BackgroundColor="DeepSkyBlue" TextColor="White" Clicked="signup_Clicked" HorizontalOptions="Center"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

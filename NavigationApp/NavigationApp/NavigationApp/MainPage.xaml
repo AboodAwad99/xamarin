@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NavigationApp.MainPage"
+             Title="Login page"
+             BackgroundColor="LightBlue"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="tis" Text="SignUp" Clicked="tis_Clicked" Order="Primary">
+         
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <Frame BorderColor="Maroon" VerticalOptions="Center" BackgroundColor="LightBlue" CornerRadius="20" Margin="20">
+    <StackLayout VerticalOptions="Center">
+        <Entry x:Name="uName" FontSize="Large" FontAttributes="Bold" Placeholder="Enter Your name" HorizontalOptions="FillAndExpand" TextColor="Black"></Entry>
+        <Entry x:Name="Pass" FontSize="Large" FontAttributes="Bold" Placeholder="Enter PassWord" HorizontalOptions="FillAndExpand" TextColor="Black" IsPassword="True"></Entry>
+        <Button x:Name="login" BackgroundColor="DarkBlue" TextColor="White" Text="Login" FontSize="Large" CornerRadius="10" Clicked="login_Clicked" HorizontalOptions="Center"></Button>
+    </StackLayout>
+</Frame>
+</ContentPage>

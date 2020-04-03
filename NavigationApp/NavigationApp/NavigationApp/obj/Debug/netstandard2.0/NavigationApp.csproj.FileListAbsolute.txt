@@ -1,0 +1,15 @@
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.deps.json
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.dll
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\ref\NavigationApp.dll
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.pdb
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\Signup.xaml.g.cs
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\SimpleCal.xaml.g.cs
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.dll
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\ref\NavigationApp.dll
+C:\Users\Abd-allah\source\repos\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.pdb

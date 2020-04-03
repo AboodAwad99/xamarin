@@ -1,0 +1,15 @@
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\bin\Debug\netstandard2.0\Nav_App.deps.json
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\bin\Debug\netstandard2.0\Nav_App.dll
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\bin\Debug\netstandard2.0\ref\Nav_App.dll
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\bin\Debug\netstandard2.0\Nav_App.pdb
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Nav_App.csprojAssemblyReference.cache
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Nav_App.AssemblyInfoInputs.cache
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Nav_App.AssemblyInfo.cs
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Nav_App.dll
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\ref\Nav_App.dll
+C:\Users\Abd-allah\source\repos\Nav_App\Nav_App\Nav_App\obj\Debug\netstandard2.0\Nav_App.pdb
